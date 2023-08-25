@@ -3,7 +3,7 @@ let myText = "We are good"
 
 //2
 let firstWord = "Hello", secondWord = "World"
-console.log(firstWord,secondWord)
+console.log(firstWord + ' ' + secondWord)
 
 //3
 let myVariable = 'value'
