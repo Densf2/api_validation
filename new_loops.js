@@ -20,7 +20,7 @@ let sumOfLoop = 0;
 
 for (let i = 0; i <= num; i+=2) {
 console.log(i)
-if (i == 1113) break;
+if (i == 1114) break;
 sumOfLoop += i
 }
 
