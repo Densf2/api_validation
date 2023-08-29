@@ -1,0 +1,28 @@
+//let x = 5; let y = 5; Use the addition assignment (*=) operator that will result in x being 25 (same as x = x * y).
+let x = 5; 
+let y = 5;
+x=x*y;
+console.log(x)
+
+//create new variable 'let1' in lower case.
+//Update value 'let1' to upper case.
+let let1 = "united kingdom"
+let1 = let1.toUpperCase()
+console.log(let1)
+
+//Create another variable with few words and contain 'let1'. use method replace to word 'BANG'
+let variableWithReplace = let1.replace("KINGDOM", "BANG");
+console.log(variableWithReplace)
+
+//create comparison operator to log true, when x is NOT equal to y.
+let variableComparison = x !=y;
+console.log(variableComparison);
+
+//create variable with using addition assignment (+=) for two numbers\
+let a = 2;
+let b = 5;
+console.log(a += b);
+
+//create variable that should be 'false' with using equality operator
+let variableShouldBeFalse = x ===y
+console.log(variableShouldBeFalse)
