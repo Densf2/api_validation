@@ -26,4 +26,3 @@ sumOfLoop += i
 
 console.log(sumOfLoop)
 
-f
