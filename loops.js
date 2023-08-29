@@ -29,3 +29,12 @@ if (num215 > 300) {
     console.log('code goes to the else')
    }
 
+// ternary operator
+    let resTernary = (num215 >= 200) ? 'ternary true':
+    (num215 => 250) ? 'ternary num greater than 250':
+    'ternary false'
+    console.log(resTernary)
+
+    let val2 = 'txt'
+
+    if (val2 == )
