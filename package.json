@@ -21,7 +21,7 @@
     "typescript": "^5.5.2"
   },
   "devDependencies": {
-    "@types/chai": "^4.3.5",
+    "@types/chai": "^4.3.16",
     "@types/jsonpath": "^0.2.4"
   }
 }
