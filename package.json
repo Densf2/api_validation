@@ -22,6 +22,6 @@
   },
   "devDependencies": {
     "@types/chai": "^4.3.5",
-    "@types/jsonpath": "^0.2.0"
+    "@types/jsonpath": "^0.2.4"
   }
 }
