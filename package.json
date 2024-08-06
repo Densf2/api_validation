@@ -12,7 +12,7 @@
     "axios": "^1.7.2",
     "chai": "^5.1.1",
     "chai-openapi-response-validator": "^0.14.2",
-    "go-git-it": "^1.2.2",
+    "go-git-it": "^1.2.4",
     "jsonpath": "^1.1.1",
     "mocha": "^10.5.2",
     "mochawesome": "^7.1.3",
