@@ -10,7 +10,7 @@
     "@types/mocha": "^10.0.7",
     "@types/node": "^22.5.4",
     "axios": "^1.7.7",
-    "chai": "^5.1.1",
+    "chai": "^5.1.2",
     "chai-openapi-response-validator": "^0.14.2",
     "go-git-it": "^2.0.4",
     "jsonpath": "^1.1.1",
@@ -21,7 +21,7 @@
     "typescript": "^5.5.4"
   },
   "devDependencies": {
-    "@types/chai": "^4.3.19",
+    "@types/chai": "^5.0.1",
     "@types/jsonpath": "^0.2.4"
   }
 }
