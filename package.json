@@ -14,7 +14,7 @@
     "chai-openapi-response-validator": "^0.14.2",
     "go-git-it": "^2.0.4",
     "jsonpath": "^1.1.1",
-    "mocha": "^10.8.2",
+    "mocha": "^11.1.0",
     "mochawesome": "^7.1.3",
     "swagger2openapi": "^7.0.8",
     "ts-node": "^10.9.2",
