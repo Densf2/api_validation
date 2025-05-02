@@ -9,7 +9,7 @@
   "dependencies": {
     "@types/mocha": "^10.0.9",
     "@types/node": "^22.13.17",
-    "axios": "^1.8.4",
+    "axios": "^1.9.0",
     "chai": "^5.1.2",
     "chai-openapi-response-validator": "^0.14.2",
     "go-git-it": "^2.0.4",
