@@ -8,9 +8,9 @@
   "author": "Denys Pavliuk",
   "dependencies": {
     "@types/mocha": "^10.0.9",
-    "@types/node": "^24.9.2",
-    "axios": "^1.13.1",
-    "chai": "^5.1.2",
+    "@types/node": "^24.0.8",
+    "axios": "^1.9.0",
+    "chai": "^5.2.1",
     "chai-openapi-response-validator": "^0.14.2",
     "go-git-it": "^4.0.0",
     "jsonpath": "^1.1.1",
@@ -21,7 +21,7 @@
     "typescript": "^5.9.3"
   },
   "devDependencies": {
-    "@types/chai": "^5.0.1",
+    "@types/chai": "^5.2.2",
     "@types/jsonpath": "^0.2.4"
   }
 }
