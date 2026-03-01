@@ -13,7 +13,7 @@
     "chai": "^6.2.2",
     "chai-openapi-response-validator": "^0.14.2",
     "go-git-it": "^5.0.3",
-    "jsonpath": "^1.1.1",
+    "jsonpath": "^1.2.1",
     "mocha": "^11.7.5",
     "mochawesome": "^7.1.4",
     "swagger2openapi": "^7.0.8",
